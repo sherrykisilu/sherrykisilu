@@ -1,10 +1,10 @@
 ## Hi, I'm Sherry 👋
 
-Software engineer in Nairobi, working on **data, cloud and AI**.
+Software Engineer in Nairobi, working on **data, cloud and AI**.
 
-- 🔧 **Now:** Windows Reliability Data Engineering at Microsoft: Azure Data Factory migrations, AI-assisted C# tooling, infrastructure as code (ARM/Bicep, Azure DevOps)
+- 🔧 **Now:** Software Engineer at Microsoft, on Windows reliability data platforms: Azure Data Factory migrations, AI-assisted C# tooling, infrastructure as code (ARM/Bicep, Azure DevOps)
 - 🤖 **Before:** RAG systems and AI features for document management at Techedge Solutions
-- 🗣️ **Interested in:** NLP for African languages. My final-year project, *Intelisenti*, classifies sentiment in Swahili and Sheng (82.3% accuracy, graded A)
+- 🗣️ **Interested in:** NLP for African languages. A project I worked on, *Intelisenti*, classifies sentiment in Swahili and Sheng (82.3% accuracy, graded A)
 - 🚌 **On the side:** building a startup for getting around within cities
 - 🎓 BSc Computer Science, University of Nairobi (Second Class Honours, Upper Division)
 
