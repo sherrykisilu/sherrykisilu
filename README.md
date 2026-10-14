@@ -10,6 +10,6 @@ Software Engineer in Nairobi, working on **data, cloud and AI**.
 
 **Toolkit:** Python · C# · SQL · Kusto · Azure · Kubernetes · Juju · PostgreSQL · PyTorch · React
 
-**Start here:** [charmed-postgresql-lab](https://github.com/sherrykisilu/charmed-postgresql-lab), a highly available PostgreSQL cluster on Kubernetes with tested failover
+**Start here:** [groundwork](https://github.com/sherrykisilu/groundwork), a toolkit for making messy systems agent-ready. MCP servers, written procedures, and evals that assert which tools ran rather than which words appeared. Two unrelated domains, one core, 214 tests.
 
 🌐 [sherrykisilu.github.io](https://sherrykisilu.github.io)
